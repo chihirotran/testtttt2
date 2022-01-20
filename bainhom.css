@@ -64,12 +64,14 @@ a:hover {
 .card1 {
 	display: flex;
 	fflex-direction: row;
+	justify-content: space-around;
     flex-wrap: wrap;
 	background-color: rgb(104, 102, 102);
 }
 .card2 {
 	display: flex;
 	fflex-direction: row;
+	justify-content: space-around;
     flex-wrap: wrap;
 	background-color: #dddd;
 }
